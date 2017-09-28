@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<books>
+    <book bookId="1" title="title1" price="1.0" isbn="isbn_1"/>
+    <book bookId="2" title="title2" price="2.0" isbn="isbn_2"/>
+    <book bookId="3" title="title3" price="3.0" isbn="isbn_3"/>
+    <book bookId="4" title="title4" price="4.0" isbn="isbn_4"/>
+    <book bookId="5" title="title5" price="5.0" isbn="isbn_5"/>
+</books>
